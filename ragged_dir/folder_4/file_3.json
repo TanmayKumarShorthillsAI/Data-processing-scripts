@@ -1,0 +1,15 @@
+{
+    "id": 43,
+    "name": "Charlie",
+    "details": {
+        "age": 22,
+        "city": "Phoenix"
+    },
+    "scores": [
+        83,
+        71,
+        63,
+        97,
+        80
+    ]
+}

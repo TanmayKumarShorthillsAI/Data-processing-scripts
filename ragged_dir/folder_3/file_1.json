@@ -1,0 +1,14 @@
+{
+    "id": 47,
+    "name": "Eve",
+    "details": {
+        "age": 41,
+        "city": "Chicago"
+    },
+    "scores": [
+        66,
+        54,
+        60,
+        65
+    ]
+}
